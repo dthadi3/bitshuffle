@@ -27,3 +27,4 @@ script:
   - "cd ~"
   - "nosetests -v bitshuffle"  # Test the system install
   - "venv/bin/nosetests -v bitshuffle"  # Test the virtualenv install
+  
